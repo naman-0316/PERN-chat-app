@@ -1,4 +1,4 @@
-# PERN Stack Project: Build a Real Time Chat App | Postgres, TypeScript, Prisma
+# PERN Stack Project: Real Time Chat App | Postgres, TypeScript, Prisma
 
 Some Features:
 
@@ -8,9 +8,7 @@ Some Features:
 -   🚀 Online user status (Socket.io and React Context)
 -   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
--   👻 TypeScript Tips and Tricks
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+
 
 # Run Locally
 
